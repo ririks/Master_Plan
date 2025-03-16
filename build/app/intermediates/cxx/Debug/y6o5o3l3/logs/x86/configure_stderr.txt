@@ -1,0 +1,32 @@
+CMake Warning at C:/Users/rusli/AppData/Local/Android/Sdk/ndk/28.0.13004108/build/cmake/android-legacy.toolchain.cmake:440 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  C:/Users/rusli/AppData/Local/Android/Sdk/ndk/28.0.13004108/build/cmake/android.toolchain.cmake:55 (include)
+  C:/Users/rusli/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake:93 (include)
+
+
+CMake Warning at C:/Users/rusli/AppData/Local/Android/Sdk/ndk/28.0.13004108/build/cmake/android-legacy.toolchain.cmake:440 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  C:/Users/rusli/AppData/Local/Android/Sdk/ndk/28.0.13004108/build/cmake/android.toolchain.cmake:55 (include)
+  C:/Users/rusli/OneDrive/Documents/GitHub/master_plan/android/app/.cxx/Debug/y6o5o3l3/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeSystem.cmake:6 (include)
+  C:/Users/rusli/OneDrive/Documents/GitHub/master_plan/android/app/.cxx/Debug/y6o5o3l3/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+CMake Warning at C:/Users/rusli/AppData/Local/Android/Sdk/ndk/28.0.13004108/build/cmake/android-legacy.toolchain.cmake:440 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  C:/Users/rusli/AppData/Local/Android/Sdk/ndk/28.0.13004108/build/cmake/android.toolchain.cmake:55 (include)
+  C:/Users/rusli/OneDrive/Documents/GitHub/master_plan/android/app/.cxx/Debug/y6o5o3l3/x86/CMakeFiles/3.18.1-g262b901-dirty/CMakeSystem.cmake:6 (include)
+  C:/Users/rusli/OneDrive/Documents/GitHub/master_plan/android/app/.cxx/Debug/y6o5o3l3/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
