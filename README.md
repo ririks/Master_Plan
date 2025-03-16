@@ -1,16 +1,9 @@
-# master_plan
+# Dasar State Management
 
-A new Flutter project.
+Praktikum 1 
 
-## Getting Started
+![prak1](lib/assets/hasil_praktikum1.mp4)
 
-This project is a starting point for a Flutter application.
+Ini adalah hasil akhir dari praktikum 1, dan telah dibuat aplikasi pencatatan tugas menggunakan Flutter dengan konsep manajemen state berbasis Model-View. pengguna bisa menambah, mengedit, dan menandai tugas sebagai selesai. Implementasi mencakup pembuatan model Task dan Plan, pengelolaan state dengan StatefulWidget, serta penggunaan ListView untuk menampilkan daftar tugas. Selain itu, ditambahkan fitur ScrollController untuk mengatasi kendala input pada perangkat iOS. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
